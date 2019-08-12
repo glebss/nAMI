@@ -1,0 +1,19 @@
+ES2005a, length = 477.88 s, percent_of_speech = 0.57, percent_of_noises = 0.40
+noise: Door_4365_0, start: 133.3886 s end: 136.8171 s, duration: 3.4285 s, snr: -0.31
+noise: Knock_129_3, start: 144.1135 s end: 148.6059 s, duration: 4.4924 s, snr: 7.28
+noise: Signalization_130_1, start: 154.5104 s end: 165.0451 s, duration: 10.5346 s, snr: 7.52
+noise: Signalization_3_4, start: 200.4504 s end: 225.8146 s, duration: 25.3641 s, snr: 4.45
+noise: Telephone_128_1, start: 204.6444 s end: 209.0076 s, duration: 4.3631 s, snr: 0.00
+noise: Scissors_71_1, start: 233.9436 s end: 244.3304 s, duration: 10.3868 s, snr: 9.42
+noise: Scissors_69_3, start: 259.5803 s end: 266.0666 s, duration: 6.4862 s, snr: 10.38
+noise: Writing_29_0, start: 265.7671 s end: 271.0591 s, duration: 5.2920 s, snr: 5.41
+noise: Squeak_136_4, start: 292.5124 s end: 313.0388 s, duration: 20.5264 s, snr: 7.04
+noise: Door_1270_4, start: 294.3927 s end: 298.6147 s, duration: 4.2220 s, snr: 7.47
+noise: Babble_127_1, start: 298.2677 s end: 308.8002 s, duration: 10.5325 s, snr: 11.57
+noise: Street_112_2, start: 327.5623 s end: 333.0903 s, duration: 5.5280 s, snr: 5.24
+noise: Squeak_112_1, start: 329.2355 s end: 354.7056 s, duration: 25.4701 s, snr: 5.98
+noise: Telephone_638_3, start: 347.5240 s end: 363.6062 s, duration: 16.0822 s, snr: 3.62
+noise: Telephone_417_1, start: 391.0188 s end: 441.8589 s, duration: 50.8401 s, snr: -0.08
+noise: Computer_1225_3, start: 398.4564 s end: 402.9601 s, duration: 4.5036 s, snr: 1.24
+noise: Street_37_0, start: 436.6463 s end: 440.1803 s, duration: 3.5340 s, snr: 6.89
+noise: Writing_224_3, start: 438.3721 s end: 456.7384 s, duration: 18.3663 s, snr: 10.79
