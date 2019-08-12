@@ -1,0 +1,14 @@
+class distrib,*params prob
+Babble normal,15,3 0.06
+Computer normal,5,3 0.15
+Door normal,5,3 0.083
+Drawer normal,5,3 0.067
+Gunshot normal,5,3 0.035
+Knock normal,5,3 0.083
+Scissors normal,5,3 0.067
+Signalization normal,5,3 0.06
+Squeak normal,5,3 0.083
+Street normal,5,3 0.06
+Telephone normal,5,3 0.15
+Tool normal,5,3 0.035
+Writing normal,5,3 0.067
