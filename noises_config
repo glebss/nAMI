@@ -1,0 +1,14 @@
+Name mu var
+Babble,rectangular,3,0.64
+Computer,normal,0.35,0.1
+Door,rectangular,3,0.64
+Drawer,normal,1,0.09
+Gunshot,rectangular,3,0.64
+Knock,normal,3,1
+Scissors,normal,0.35,0.1
+Signalization,rectangular,3,0.64
+Squeak,uniform,0.1,3
+Street,rectangular,3,0.64
+Telephone,uniform,0.1,5
+Tool,normal,3,0.64
+Writing,normal,0.35,0.1
